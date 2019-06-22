@@ -1,11 +1,5 @@
 # IIT Kanpur CS685 end semester project: Indian Agriculture Analysis
 
-This project has been contributed by 4 other members:
-1. Nitin Vivek Bharti https://github.com/nitinvbharti
-2. Abhishek Kumar https://github.com/scakc
-3. Komal Kalra https://github.com/komalklr
-4. Sumit Kumar https://github.com/sumit1207
-
 ### Introduction
 This project uses several data mining techniques to extract information from agriculture
 data and to give suggestions regarding crops and make future predictions so that agriculture
