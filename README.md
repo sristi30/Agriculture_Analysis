@@ -1,4 +1,4 @@
-# IIT Kanpur CS685 end semester project: Indian Agriculture Analysis
+# IIT Kanpur CS685: Data Mining end semester project: Indian Agriculture Analysis
 
 ### Introduction
 This project uses several data mining techniques to extract information from agriculture
